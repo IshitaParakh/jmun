@@ -1,0 +1,25 @@
+<resources>
+    <string name="shr_app_name">JMUN</string>
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="shr_error_password">Password must contain at least 8 characters.</string>
+    <string name="shr_call_title">Call</string>
+    <string name="shr_notifications_title">Notifications</string>
+    <string name="shr_product_title">Title</string>
+    <string name="shr_product_description">Secondary Text</string>
+
+    <!-- Shrine backdrop menu labels -->
+    <string name="shr_one_label">About</string>
+    <string name="shr_two_label">Information</string>
+    <string name="shr_three_label">Schedule</string>
+    <string name="shr_four_label">Committees</string>
+    <string name="shr_five_label">Documents</string>
+    <string name="shr_six_label">Apply</string>
+    <string name="shr_seven_label">Contact</string>
+    <string name="shr_eight_label">Apply</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

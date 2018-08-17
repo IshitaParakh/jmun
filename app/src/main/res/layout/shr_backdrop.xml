@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/shr_about_btn"
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shr_one_label"
+        android:onClick="shr_about_func"/>
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/shr_info_btn"
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shr_two_label"
+        android:onClick="shr_info_func"/>
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/shr_schedule_btn"
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shr_three_label"
+        android:onClick="shr_schedule_func"/>
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/shr_committees_btn"
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shr_four_label"
+        android:onClick="shr_committees_func"/>
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/shr_documents_btn"
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shr_five_label"
+        android:onClick="shr_documents_func"/>
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/shr_apply_btn"
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shr_six_label"
+        android:onClick="shr_apply_func"/>
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/shr_contact_btn"
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shr_seven_label"
+        android:onClick="shr_contact_func"/>
+
+    <View
+        android:layout_width="56dp"
+        android:layout_height="1dp"
+        android:layout_margin="16dp"
+        android:background="?android:attr/textColorPrimary" />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/shr_extra_btn"
+        style="@style/Widget.Shrine.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/shr_eight_label"
+        android:paddingBottom="40dp"/>
+
+</merge>
